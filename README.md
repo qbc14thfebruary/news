@@ -1,6 +1,6 @@
 # Giới thiệu về tôi
 
-Chào mọi người! Tôi là [Tên của bạn], một người đam mê công nghệ và thích khám phá những điều mới mẻ. Dưới đây là một số liên kết đến các trang mạng xã hội của tôi:
+Chào mọi người! Tôi là qbc14thfebruary, một người đam mê công nghệ và thích khám phá những điều mới mẻ. Dưới đây là một số liên kết đến các trang mạng xã hội của tôi:
 
 - [Facebook](https://www.facebook.com/yourprofile) - Kết nối với tôi trên Facebook!
 - [Instagram](https://www.instagram.com/yourprofile) - Theo dõi những bức ảnh và câu chuyện của tôi trên Instagram!
